@@ -1,0 +1,12 @@
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\dto\response\InventoryResponse.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\config\JwtUtil.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\service\InventoryService.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\entity\Inventory.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\repository\InventoryRepository.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\dto\request\InventoryRequest.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\exception\GlobalExceptionHandler.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\config\JwtFilter.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\config\SecurityConfig.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\InventoryServiceApplication.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\service\impl\InventoryServiceImpl.java
+C:\Users\STENIS FRANKLIN\Downloads\inventory-management-system (2)\inventory-management-system\inventory-service\src\main\java\com\example\inventory\controller\InventoryController.java
